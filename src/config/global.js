@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Sanidad animal, fundamentos, componentes y aplicabilidad',
+    descripcionCurso:
+      'La sanidad animal refiere a la prevención y control de las enfermedades infecto contagiosas que se presentan a nivel de producción, junto con el conocimiento de los animales, su comportamiento, bienestar, manejo, entorno, alimentación y todos los requerimientos que tienen, lo cual conlleva a que puedan realmente aportar y sean provechosos en la producción de forma eficiente. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,12 +33,17 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Comportamiento animal',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Principios',
+            hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Interpretación',
             hash: 't_1_1',
           },
         ],
@@ -45,13 +52,30 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Bienestar animal',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Principios',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Legislación',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Interpretación',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Enfermedad',
         desarrolloContenidos: true,
       },
     ],
