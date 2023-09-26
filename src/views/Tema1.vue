@@ -21,8 +21,8 @@
 
     Separador.mt-0
 
-    .cont_2_1(style="position:relative;")
-        .titulo-segundo.color-acento-contenido(style="position:relative")
+    .cont_1_1(style="position:relative;")
+        .titulo-segundo.color-primario(style="position:relative")
           h2#t_1_1 1.1 Principios  
 
     .row.align-items-center.my-3.col-lg-12.m-0        
@@ -43,8 +43,8 @@
       .col
         p.mb-2.py-3(style="overflow-x: hidden !important") Entonces si el comportamiento es el resultado de una mezcla compleja de factores heredados y aprendidos, cabe la posibilidad de que los primeros sean muy sutiles, más de lo que normalmente se piensa. Por su parte, se tiene la creencia de que, por debajo del comportamiento, hay patrones de comunicación de los cuales hasta ahora se tienen algunos indicios, aunque son diversos los aspectos comportamentales de los animales que aun hoy en día se desconocen, no puede pasarse por alto que sus principios se remontan a épocas primitivas en las que el hombre empieza a dar sus primeros pasos en la domesticación de las diferentes especies animales. Tener en cuenta estos hechos puede ayudar en la comprensión de los mecanismos de los procesos evolutivos comportamentales que pueden ser llevados a la práctica en el manejo animal.
     
-    .cont_2_1.pt-3(style="position:relative;")
-      .titulo-segundo.color-acento-contenido(style="position:relative")
+    .cont_1_2.pt-3(style="position:relative;")
+      .titulo-segundo.color-primario(style="position:relative")
         h2#t_1_2 1.2 Interpretación  
 
     .row.align-items-center.my-3.col-lg-12.m-0        

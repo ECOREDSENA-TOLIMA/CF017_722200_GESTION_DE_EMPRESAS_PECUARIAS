@@ -48,7 +48,6 @@ export default {
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
@@ -77,6 +76,106 @@ export default {
         numero: '3',
         titulo: 'Enfermedad',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Manifestación',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Enfermedades endémicas',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Zoonosis',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Tipos de transmisión',
+            hash: 't_4_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Cuarentena',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Conducción',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Características',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Tipos y uso de instrumentos inductores de movimiento',
+            hash: 't_6_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Sujeción e inmovilización',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Características',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Métodos',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.3',
+            titulo: 'Herramientas y Equipos',
+            hash: 't_7_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Primeros Auxilios',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '8.1',
+            titulo: 'Manejo y Aplicación',
+            hash: 't_8_1',
+          },
+          {
+            numero: '8.2',
+            titulo: 'Signos vitales en especie pecuaria',
+            hash: 't_8_1',
+          },
+          {
+            numero: '8.3',
+            titulo: 'Heridas',
+            hash: 't_8_3',
+          },
+          {
+            numero: '8.4',
+            titulo: 'Tratamientos',
+            hash: 't_8_4',
+          },
+        ],
       },
     ],
     subMenu: [
