@@ -67,7 +67,7 @@
 
     Separador 
 
-    #t_1_1.titulo-segundo.color-primario(data-aos="fade-right")
+    .titulo-segundo.color-primario(data-aos="fade-right")
       h2 Tipos de transmisión
 
     p.mb-5 En función de su modo de transmisión, existen diferentes tipos de transmisión como las que se mencionan a continuación:

@@ -307,7 +307,7 @@
         .tarjeta.tarjeta-1.p-4.mb-4(style="background-color:#1B3F5E")(data-aos="flip-up")
           .row.justify-content-center.align-items-center
             .col-lg-10
-              h2(data-aos="fade-left")(style="color:#fff !important") 8.2.3 Frecuencia Respiratoria
+              h2(data-aos="fade-left")(style="color:#fff !important") Frecuencia Respiratoria
     
     .row.mb-5(data-aos="fade-down-left")
       .col-md-3.mb-3
