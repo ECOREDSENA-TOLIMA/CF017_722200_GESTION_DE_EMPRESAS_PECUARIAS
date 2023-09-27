@@ -40,7 +40,7 @@
 
     Separador 
 
-    #t_1_1.titulo-segundo.color-primario(data-aos="fade-right")
+    .titulo-segundo.color-primario(data-aos="fade-right")
       h2 Manifestación
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-left")
@@ -51,7 +51,7 @@
 
     Separador 
 
-    #t_1_1.titulo-segundo.color-primario(data-aos="fade-right")
+    .titulo-segundo.color-primario(data-aos="fade-right")
       h2 Enfermedades endémicas
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-left")
