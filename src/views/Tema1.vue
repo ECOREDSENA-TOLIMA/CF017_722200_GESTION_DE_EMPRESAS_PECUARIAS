@@ -1,5 +1,5 @@
 <template lang="pug">
-.curso-main-container.pb-3
+.curso-main-container.pb-3.tema1
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
@@ -43,6 +43,8 @@
       .col
         p.mb-2.py-3(style="overflow-x: hidden !important") Entonces si el comportamiento es el resultado de una mezcla compleja de factores heredados y aprendidos, cabe la posibilidad de que los primeros sean muy sutiles, más de lo que normalmente se piensa. Por su parte, se tiene la creencia de que, por debajo del comportamiento, hay patrones de comunicación de los cuales hasta ahora se tienen algunos indicios, aunque son diversos los aspectos comportamentales de los animales que aun hoy en día se desconocen, no puede pasarse por alto que sus principios se remontan a épocas primitivas en las que el hombre empieza a dar sus primeros pasos en la domesticación de las diferentes especies animales. Tener en cuenta estos hechos puede ayudar en la comprensión de los mecanismos de los procesos evolutivos comportamentales que pueden ser llevados a la práctica en el manejo animal.
     
+    Separador
+
     .cont_2_1.pt-3(style="position:relative;")
       .titulo-segundo.color-acento-contenido(style="position:relative")
         h2#t_1_2 1.2 Interpretación  
@@ -58,22 +60,53 @@
     p.mb-2.py-1(style="overflow-x: hidden !important") Es razonable pensar que tan solo al pasar algunas generaciones, los hombres primitivos pudieron domesticar los lobos y convertirlos en perros a través de la crianza y selección de los individuos más mansos. Sin duda que estos animales debieron tener ciertas características que permitieran dicho proceso; si las especies actualmente domesticadas se clasifican de algún modo, se puede definir que el conjunto este compuesto por herbívoros los cuales no tienen vínculos estables de apareamiento, es decir, sin pareja estable, omnívoros que son gregarios, o sea, que viven en grupos, y gallináceas.
     
 
-    .col-sm-12.col-lg-12
-      .titulo-sexto.mb-0.color-primario.mt-5
+    .col-sm-12.col-lg-12(data-aos="fade-right" alt='Figura 1 Características de comportamiento para domesticación de animales. En la figura se representan las características de comportamiento para domesticación de animales, como gregariedad, organización social, apareamientos promiscuos, precocidad de las crías, adaptabilidad, agilidad limitada y temperamento dócil.')
+      .titulo-sexto.mb-0.color-primario.mt-5.mb-5 
         p.mb-2 #[b Figura 1.] 
           i Características de comportamiento para domesticación de animales 
 
-    p.mb-2.pt-5(style="overflow-x: hidden !important") Los comportamientos emergen en momentos en los que no se presentan oportunidades de aprendizaje. Esto sugiere que el sistema nervioso central puede estar pre configurado en respuesta a estímulos o eventos particulares. En otras palabras, la domesticación parece haber sido un proceso de selección natural de rasgos conductuales deseables. Aquellos individuos que se sintieron más cómodos en situaciones de confinamiento tuvieron éxito en su crecimiento y desarrollo, manteniéndose sanos y siendo productivos. Por otro lado, aquellos que no lograron adaptarse o desarrollar estas características no pudieron reproducirse y fueron eliminados, lo que a su vez fomentó y fortaleció estas habilidades de adaptación. 
+      .row.mb-5(data-aos="fade-right")
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta.color-primario(style="height:100%")
+            .p-4
+              h3 Gregariedad
+              p Peculiaridad de los animales domesticados que da la capacidad de agruparse y tolerar esta conducta, permitiendo estar estabulados, para manejar grupos de rebaños sin mayores complicaciones.
 
-    .row.align-items-center.my-0.col-lg-12        
-      .col-auto
-        figure
-          img(src='@/assets/curso/temas/1/12.png').m-auto(data-aos="fade-right")
-      .col
-        p.mb-2.py-3(style="overflow-x: hidden !important") Entonces si el comportamiento es el resultado de una mezcla compleja de factores heredados y aprendidos, cabe la posibilidad de que los primeros sean muy sutiles, más de lo que normalmente se piensa. Por su parte, se tiene la creencia de que, por debajo del comportamiento, hay patrones de comunicación de los cuales hasta ahora se tienen algunos indicios, aunque son diversos los aspectos comportamentales de los animales que aun hoy en día se desconocen, no puede pasarse por alto que sus principios se remontan a épocas primitivas en las que el hombre empieza a dar sus primeros pasos en la domesticación de las diferentes especies animales. Tener en cuenta estos hechos puede ayudar en la comprensión de los mecanismos de los procesos evolutivos comportamentales que pueden ser llevados a la práctica en el manejo animal.
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta.color-acento-botones(style="height:100%")
+            .p-4
+              h3 Organización Social
+              p Cualidad de un grupo de animales de categorizarse de acuerdo a un sistema de dominancia social, lo cual facilita que exista una convivencia pacífica en la manada. 
+
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta.color-primario(style="height:100%")
+            .p-4
+              h3 Apareamientos Promiscuos
+              p Característica que poseen los animales que les permite el apareamiento con diferentes integrantes del grupo, sin tener un compañero permanente o fijo, favoreciendo producción masiva a bajos costos, sin embargo, se observa que algunas especies prefieren ciertos individuos, posibilitando el uso de un solo reproductor, y realizar esquemas de apareamiento programado que redunda en el mejoramiento de la especie.
     
-    p.mb-2.pt-2(style="overflow-x: hidden !important") Este tipo de conocimiento se limita a etapas específicas o sensibles de la vida del animal, que generalmente ocurren a una edad muy temprana. Estos conocimientos son cruciales para ayudar al animal a encontrar alimento, refugio, protección y mantenerse a salvo. Además, estos comportamientos aprendidos tienen efectos que perduran a lo largo de toda la vida del animal. Por lo tanto, el manejo adecuado desde los primeros contactos hasta la edad adulta es fundamental, ya que desempeña un papel clave en el desarrollo y crecimiento del comportamiento del animal.
-    
+    .col-sm-12.col-lg-8(data-aos="fade-right")
+      .row
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta.color-acento-botones(style="height:100%")
+            .p-4
+              h3 Precocidad de las Crías
+              p Cualidad propia de los herbívoros, quienes al nacer tienen la facultad de pararse, tener los ojos abiertos y buscar la compañía de su progenitora durante la primera hora después del parto, dicha característica facilita el manejo en épocas de parto sobretodo en sistemas extensivos a campo abierto en donde no se pueden ver plenamente las crías por la vegetación.
+
+        .col-md-6.col-lg.mb-5.mb-lg-0
+          .tarjeta.color-primario(style="height:100%")
+            .p-4
+              h3 Adaptabilidad
+              p Peculiaridad que le permite a los animales una amplia y rápida adaptación a un variado espectro de infraestructuras, condiciones ambientales, de alimentación y manejo, dentro de las limitaciones lógicas derivadas de los sistemas productivos utilizados en la producción animal.
+
+    p.mb-5.pt-5(style="overflow-x: hidden !important") Los comportamientos emergen en momentos en los que no se presentan oportunidades de aprendizaje. Esto sugiere que el sistema nervioso central puede estar pre configurado en respuesta a estímulos o eventos particulares. En otras palabras, la domesticación parece haber sido un proceso de selección natural de rasgos conductuales deseables. Aquellos individuos que se sintieron más cómodos en situaciones de confinamiento tuvieron éxito en su crecimiento y desarrollo, manteniéndose sanos y siendo productivos. Por otro lado, aquellos que no lograron adaptarse o desarrollar estas características no pudieron reproducirse y fueron eliminados, lo que a su vez fomentó y fortaleció estas habilidades de adaptación. 
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-left")
+      .col-md-4.mb-3
+        img(src="@/assets/curso/temas/1/12.png")
+      .col-md-8
+        p Por otro lado, es importante destacar que los animales domesticados también desarrollan comportamientos aprendidos desde su nacimiento hasta varios días después a través de un proceso conocido como impronta o troquelado. Este proceso se basa en la formación de vínculos sociales definidos, influenciados en parte por la herencia genética y en parte por la dinámica de dominancia entre individuos, relacionada con características para el apareamiento o la adquisición de territorio. Estos comportamientos aprendidos les permiten a los animales comprender diversos aspectos de su entorno, centrándose principalmente en cómo identificar, acercarse y seguir objetos o individuos, especialmente a sus progenitores.
+        p Este tipo de conocimiento se limita a etapas específicas o sensibles de la vida del animal, que generalmente ocurren a una edad muy temprana. Estos conocimientos son cruciales para ayudar al animal a encontrar alimento, refugio, protección y mantenerse a salvo. Además, estos comportamientos aprendidos tienen efectos que perduran a lo largo de toda la vida del animal. Por lo tanto, el manejo adecuado desde los primeros contactos hasta la edad adulta es fundamental, ya que desempeña un papel clave en el desarrollo y crecimiento del comportamiento del animal.
+
     .cajon.p-2.mt-5.col-lg-12.m-auto.pb-0(style="background-color:#DBF9BD; overflow-x: hidden !important")
       p.mb-2.py-1(style="overflow-x: hidden !important") En este mismo orden de ideas, los sentidos como el olfato, la vista y la audición, son de vital importancia en la supervivencia, y en el trato con los humanos, definiendo en gran medida las pautas para el manejo de cada animal y cada especie.
 
