@@ -37,18 +37,18 @@
     p.mb-5 De acuerdo con lo expuesto, se hacen las siguientes recomendaciones: 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right", alt="Figura 5 Recomendaciones para movimiento de animales. En la figura se representan las recomendaciones para movimiento de animales como: trabajar tranquilamente, evitando ruidos estridentes y sonidos fuertes o agudos, el personal debe estar bien capacitado y seguro, no tirar las orejas, cuello, lana, cola, extremidades o cabeza, no usar rejo, perrero, palos, picaña u otro tipo de elementos para azotar y agredir, evitar ejercer presión o azuzar de forma individual o colectiva, trabajar de pie o desde fuera de los corrales en donde se encuentran los animales.")
+      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right", alt="")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Recomendaciones para movimiento de animales</em>
         figure
-          img(src='@/assets/curso/temas/tema6/img-3-1.svg', alt='')  
+          img(src='@/assets/curso/temas/tema6/img-3-1.svg', alt='Figura 5 Recomendaciones para movimiento de animales. En la figura se representan las recomendaciones para movimiento de animales como: trabajar tranquilamente, evitando ruidos estridentes y sonidos fuertes o agudos, el personal debe estar bien capacitado y seguro, no tirar las orejas, cuello, lana, cola, extremidades o cabeza, no usar rejo, perrero, palos, picaña u otro tipo de elementos para azotar y agredir, evitar ejercer presión o azuzar de forma individual o colectiva, trabajar de pie o desde fuera de los corrales en donde se encuentran los animales.')  
     
     .row.mt-5
-      .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right", alt="Figura 5 Recomendaciones para movimiento de animales. En la figura se representan las recomendaciones para movimiento de animales como: trabajar tranquilamente, evitando ruidos estridentes y sonidos fuertes o agudos, el personal debe estar bien capacitado y seguro, no tirar las orejas, cuello, lana, cola, extremidades o cabeza, no usar rejo, perrero, palos, picaña u otro tipo de elementos para azotar y agredir, evitar ejercer presión o azuzar de forma individual o colectiva, trabajar de pie o desde fuera de los corrales en donde se encuentran los animales.")
+      .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right", alt="")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Recomendaciones para movimiento de animales</em>
         figure
-          img(src='@/assets/curso/temas/tema6/img-3-2.svg', alt='')  
+          img(src='@/assets/curso/temas/tema6/img-3-2.svg', alt='Figura 5 Recomendaciones para movimiento de animales. En la figura se representan las recomendaciones para movimiento de animales como: trabajar tranquilamente, evitando ruidos estridentes y sonidos fuertes o agudos, el personal debe estar bien capacitado y seguro, no tirar las orejas, cuello, lana, cola, extremidades o cabeza, no usar rejo, perrero, palos, picaña u otro tipo de elementos para azotar y agredir, evitar ejercer presión o azuzar de forma individual o colectiva, trabajar de pie o desde fuera de los corrales en donde se encuentran los animales.')  
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-left")
       .col-md-5.mb-3

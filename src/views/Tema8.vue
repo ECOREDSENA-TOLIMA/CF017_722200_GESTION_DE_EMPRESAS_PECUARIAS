@@ -29,14 +29,14 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Acciones para atender urgencias</em>
         figure
-          img(src='@/assets/curso/temas/tema8/img-13-1.svg', alt='Figura 5 Recomendaciones para movimiento de animales. En la figura se representan las recomendaciones para movimiento de animales como: trabajar tranquilamente, evitando ruidos estridentes y sonidos fuertes o agudos, el personal debe estar bien capacitado y seguro, no tirar las orejas, cuello, lana, cola, extremidades o cabeza, no usar rejo, perrero, palos, picaña u otro tipo de elementos para azotar y agredir, evitar ejercer presión o azuzar de forma individual o colectiva, trabajar de pie o desde fuera de los corrales en donde se encuentran los animales.')  
+          img(src='@/assets/curso/temas/tema8/img-13-1.svg', alt='Figura 6 Acciones para atender urgencias de animales En la figura se representan las acciones para atender urgencias de animales como: identificar estado de salud y riesgos de vida, comunicarse con el médico veterinario, no poner en riesgo el animal si está alterado, pedir ayuda a otros operarios, tratar lesiones graves o hemorroides, no administrar medicamentos o tratamientos, tratar el animal depués de recibir los primeros auxilios.')  
     
     .row.mt-5
       .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Acciones para atender urgencias</em>
         figure
-          img(src='@/assets/curso/temas/tema8/img-13-2.svg', alt='Figura 5 Recomendaciones para movimiento de animales. En la figura se representan las recomendaciones para movimiento de animales como: trabajar tranquilamente, evitando ruidos estridentes y sonidos fuertes o agudos, el personal debe estar bien capacitado y seguro, no tirar las orejas, cuello, lana, cola, extremidades o cabeza, no usar rejo, perrero, palos, picaña u otro tipo de elementos para azotar y agredir, evitar ejercer presión o azuzar de forma individual o colectiva, trabajar de pie o desde fuera de los corrales en donde se encuentran los animales.') 
+          img(src='@/assets/curso/temas/tema8/img-13-2.svg', alt='Figura 6 Acciones para atender urgencias de animales En la figura se representan las acciones para atender urgencias de animales como: identificar estado de salud y riesgos de vida, comunicarse con el médico veterinario, no poner en riesgo el animal si está alterado, pedir ayuda a otros operarios, tratar lesiones graves o hemorroides, no administrar medicamentos o tratamientos, tratar el animal depués de recibir los primeros auxilios.') 
 
     Separador 
 

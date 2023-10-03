@@ -38,20 +38,6 @@
       div
         p(data-aos="fade-right") La forma correcta en que se manipula el miembro posterior de un equino es apoyarlo en el muslo para darle estabilidad.
 
-    .tarjeta.color-secundario.p-3.mb-5(data-aos="fade-down")
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema7/decorador-1.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              h3.mb-1 PDF- Manejo de sujeción y aplicación de inyectables
-              p.text-small Para profundizar más sobre estos conocimientos, se recomienda revisar en el material complementario el documento PDF "Manejo de sujeción y aplicación de inyectables"
-            .col-sm-auto
-              a.boton.color-acento-contenido.texto-negro(href="https://www.youtube.com/watch?v=DX3QssybS38" target="_blank")
-                span Descargar
-                i.fas.fa-download
-
     p.mb-5 Características en el manejo de bovinos.
 
     .tarjeta.tarjeta--gris.p-4.mb-5

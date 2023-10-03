@@ -55,46 +55,21 @@
         p.mb-2.py-1(style="overflow-x: hidden !important") Es razonable pensar que tan solo al pasar algunas generaciones, los hombres primitivos pudieron domesticar los lobos y convertirlos en perros a través de la crianza y selección de los individuos más mansos. Sin duda que estos animales debieron tener ciertas características que permitieran dicho proceso; si las especies actualmente domesticadas se clasifican de algún modo, se puede definir que el conjunto este compuesto por herbívoros los cuales no tienen vínculos estables de apareamiento, es decir, sin pareja estable, omnívoros que son gregarios, o sea, que viven en grupos, y gallináceas.
                  
     p.mb-2.py-1(style="overflow-x: hidden !important") Las costumbres gregarias, la falta de pareja estable y vínculos reproductivos, causa que se ocurran los sistemas jerárquicos donde el ser humano tiene el papel de alfa o dominante, esto porque se establecen más fácilmente junto al hombre. Otro de los aspectos principales en los animales fundamentales que hace que la convivencia con el ser humano tenga mayor éxito, es que no compitan activamente por el mismo tipo de alimentación, esta característica suele ser muy común en ungulados y gallináceas, haciéndolas más proclives a la domesticación.
-    p.mb-2.py-1(style="overflow-x: hidden !important") Es razonable pensar que tan solo al pasar algunas generaciones, los hombres primitivos pudieron domesticar los lobos y convertirlos en perros a través de la crianza y selección de los individuos más mansos. Sin duda que estos animales debieron tener ciertas características que permitieran dicho proceso; si las especies actualmente domesticadas se clasifican de algún modo, se puede definir que el conjunto este compuesto por herbívoros los cuales no tienen vínculos estables de apareamiento, es decir, sin pareja estable, omnívoros que son gregarios, o sea, que viven en grupos, y gallináceas.
+    p.mb-5.py-1(style="overflow-x: hidden !important") Es razonable pensar que tan solo al pasar algunas generaciones, los hombres primitivos pudieron domesticar los lobos y convertirlos en perros a través de la crianza y selección de los individuos más mansos. Sin duda que estos animales debieron tener ciertas características que permitieran dicho proceso; si las especies actualmente domesticadas se clasifican de algún modo, se puede definir que el conjunto este compuesto por herbívoros los cuales no tienen vínculos estables de apareamiento, es decir, sin pareja estable, omnívoros que son gregarios, o sea, que viven en grupos, y gallináceas.
     
-
-    .col-sm-12.col-lg-12(data-aos="fade-right" alt='Figura 1 Características de comportamiento para domesticación de animales. En la figura se representan las características de comportamiento para domesticación de animales, como gregariedad, organización social, apareamientos promiscuos, precocidad de las crías, adaptabilidad, agilidad limitada y temperamento dócil.')
-      .titulo-sexto.mb-0.color-primario.mt-5.mb-5 
-        p.mb-2 #[b Figura 1.] 
-          i Características de comportamiento para domesticación de animales 
-
-      .row.mb-5(data-aos="fade-right")
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta.color-primario(style="height:100%")
-            .p-4
-              h3 Gregariedad
-              p Peculiaridad de los animales domesticados que da la capacidad de agruparse y tolerar esta conducta, permitiendo estar estabulados, para manejar grupos de rebaños sin mayores complicaciones.
-
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta.color-acento-botones(style="height:100%")
-            .p-4
-              h3 Organización Social
-              p Cualidad de un grupo de animales de categorizarse de acuerdo a un sistema de dominancia social, lo cual facilita que exista una convivencia pacífica en la manada. 
-
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta.color-primario(style="height:100%")
-            .p-4
-              h3 Apareamientos Promiscuos
-              p Característica que poseen los animales que les permite el apareamiento con diferentes integrantes del grupo, sin tener un compañero permanente o fijo, favoreciendo producción masiva a bajos costos, sin embargo, se observa que algunas especies prefieren ciertos individuos, posibilitando el uso de un solo reproductor, y realizar esquemas de apareamiento programado que redunda en el mejoramiento de la especie.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right", alt="")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Características de comportamiento para domesticación de animales</em>
+        figure
+          img(src='@/assets/curso/temas/1/14-1.svg', alt='Figura 1 Características de comportamiento para domesticación de animales En la figura se representan las características de comportamiento para domesticación de animales, como gregariedad, organización social, apareamientos promiscuos, precocidad de las crías, adaptabilidad, agilidad limitada y temperamento dócil.')  
     
-    .col-sm-12.col-lg-8(data-aos="fade-right")
-      .row
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta.color-acento-botones(style="height:100%")
-            .p-4
-              h3 Precocidad de las Crías
-              p Cualidad propia de los herbívoros, quienes al nacer tienen la facultad de pararse, tener los ojos abiertos y buscar la compañía de su progenitora durante la primera hora después del parto, dicha característica facilita el manejo en épocas de parto sobretodo en sistemas extensivos a campo abierto en donde no se pueden ver plenamente las crías por la vegetación.
-
-        .col-md-6.col-lg.mb-5.mb-lg-0
-          .tarjeta.color-primario(style="height:100%")
-            .p-4
-              h3 Adaptabilidad
-              p Peculiaridad que le permite a los animales una amplia y rápida adaptación a un variado espectro de infraestructuras, condiciones ambientales, de alimentación y manejo, dentro de las limitaciones lógicas derivadas de los sistemas productivos utilizados en la producción animal.
+    .row.mt-5
+      .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right", alt="")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Características de comportamiento para domesticación de animales</em>
+        figure
+          img(src='@/assets/curso/temas/1/14-2.svg', alt='Figura 1 Características de comportamiento para domesticación de animales En la figura se representan las características de comportamiento para domesticación de animales, como gregariedad, organización social, apareamientos promiscuos, precocidad de las crías, adaptabilidad, agilidad limitada y temperamento dócil.')  
 
     p.mb-5.pt-5(style="overflow-x: hidden !important") Los comportamientos emergen en momentos en los que no se presentan oportunidades de aprendizaje. Esto sugiere que el sistema nervioso central puede estar pre configurado en respuesta a estímulos o eventos particulares. En otras palabras, la domesticación parece haber sido un proceso de selección natural de rasgos conductuales deseables. Aquellos individuos que se sintieron más cómodos en situaciones de confinamiento tuvieron éxito en su crecimiento y desarrollo, manteniéndose sanos y siendo productivos. Por otro lado, aquellos que no lograron adaptarse o desarrollar estas características no pudieron reproducirse y fueron eliminados, lo que a su vez fomentó y fortaleció estas habilidades de adaptación. 
 

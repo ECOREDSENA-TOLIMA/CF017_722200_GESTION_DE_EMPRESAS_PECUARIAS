@@ -33,53 +33,19 @@
     p El bienestar animal se refiere al estado de los animales y cómo afrontan las condiciones de su entorno. Es una ciencia cuyo propósito de investigación es estudiar objetivamente y comprender las necesidades de los animales además es multidisciplinaria en donde se involucran y se interrelacionan aspectos políticos, etológicos, religiosos, productivos, culturales y éticos, entre otros. 
     p.mb-5 Comprende la calidad de vida de un animal y las necesidades que definen las condiciones que deben ser provistas a los mismos, igualmente, debe evaluarse desde las siguientes perspectivas y condiciones, que son tomadas como las bases del bienestar y son ampliamente reconocidas como las cinco libertades:
 
-        
-    .row.justify-content-center.align-items-center.mb-4
-      .col-10.col-md-10.col-lg-10(data-aos="fade-right", alt="Figura 2 Los 5 principios para el bienestar animal. En la figura se representan los cinco principios para el bienestar animal, como: Libre de hambre y sed, libre de incomodidades físicas o térmicas, libre de dolor, lesiones o enfermedad, libre de miedo o angustia, libre de expresar su comportamiento.")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right", alt="")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Los 5 principios para el bienestar animal </em>
+        figure
+          img(src='@/assets/curso/temas/tema2/img-9-1.png', alt='Figura 2 Los 5 principios para el bienestar animal En la figura se representan los cinco principios para el bienestar animal, como: Libre de hambre y sed, libre de incomodidades físicas o térmicas, libre de dolor, lesiones o enfermedad, libre de miedo o angustia, libre de expresar su comportamiento.')  
+    
+    .row.mt-5
+      .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right", alt="")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Los 5 principios para el bienestar animal</em>
-        .col-lg-11(data-aos="fade-right")
-          .row.justify-content-center.align-items-center.mb-4
-            .col-md-6.col-12(data-aos="fade-down")
-              .tarjeta-avatar-b.mb-5
-                .tarjeta-avatar-b__img
-                  img(src='@/assets/curso/temas/tema2/principio-1.png' alt='')
-                .tarjeta.color-acento-botones
-                  .p-4
-                    h3 Principio 1
-                    p.mb-0 EsLibre de hambre y sed 
-            .col-md-6.col-12(data-aos="fade-down")
-              .tarjeta-avatar-b.mb-5
-                .tarjeta-avatar-b__img
-                  img(src='@/assets/curso/temas/tema2/principio-2.png' alt='')
-                .tarjeta.color-acento-botones
-                  .p-4
-                    h3 Principio 2
-                    p.mb-0 Libre de incomodidades físicas o térmicas
-            .col-md-6.col-12(data-aos="fade-down")
-              .tarjeta-avatar-b.mb-5
-                .tarjeta-avatar-b__img
-                  img(src='@/assets/curso/temas/tema2/principio-3.png' alt='')
-                .tarjeta.color-acento-botones
-                  .p-4
-                    h3 Principio 3
-                    p.mb-0 Libre de dolor, lesiones o enfermedad
-            .col-md-6.col-12(data-aos="fade-down")
-              .tarjeta-avatar-b.mb-5
-                .tarjeta-avatar-b__img
-                  img(src='@/assets/curso/temas/tema2/principio-4.png' alt='')
-                .tarjeta.color-acento-botones
-                  .p-4
-                    h3 Principio 4
-                    p.mb-0 Libre de miedo o angustia
-            .col-md-6.col-12(data-aos="fade-down")
-              .tarjeta-avatar-b.mb-5
-                .tarjeta-avatar-b__img
-                  img(src='@/assets/curso/temas/tema2/principio-5.png' alt='')
-                .tarjeta.color-acento-botones
-                  .p-4
-                    h3 Principio 5
-                    p.mb-0 Libre de expresar su comportamiento
+        figure
+          img(src='@/assets/curso/temas/tema2/img-9-2.png', alt='Figura 2 Los 5 principios para el bienestar animal En la figura se representan los cinco principios para el bienestar animal, como: Libre de hambre y sed, libre de incomodidades físicas o térmicas, libre de dolor, lesiones o enfermedad, libre de miedo o angustia, libre de expresar su comportamiento.')  
 
     .row
       .col-lg-3

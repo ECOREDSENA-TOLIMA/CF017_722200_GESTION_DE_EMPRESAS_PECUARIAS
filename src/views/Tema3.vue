@@ -64,18 +64,18 @@
     p.mb-5 De acuerdo con su intensidad de transmisión, las enfermedades endémicas se clasifican en:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right", atl="Figura 3 Clasificación de las enfermedades endémicas. En la figura se representan las enfermedades endémicas como hipoendémica, mesoendémica, hiperendémica, holoendémica.")
+      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right", atl="")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Clasificación de las enfermedades endémicas</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-4-1.svg', alt='')  
+          img(src='@/assets/curso/temas/tema3/img-4-1.svg', alt='Figura 3 Clasificación de las enfermedades endémicas. En la figura se representan las enfermedades endémicas como hipoendémica, mesoendémica, hiperendémica, holoendémica.')  
     
     .row.mt-5
-      .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right", alt="Figura 3 Clasificación de las enfermedades endémicas. En la figura se representan las enfermedades endémicas como hipoendémica, mesoendémica, hiperendémica, holoendémica.")
+      .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right", alt="")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Clasificación de las enfermedades endémicas</em>
         figure
-          img(src='@/assets/curso/temas/tema3/img-4-2.svg', alt='')  
+          img(src='@/assets/curso/temas/tema3/img-4-2.svg', alt='Figura 3 Clasificación de las enfermedades endémicas. En la figura se representan las enfermedades endémicas como hipoendémica, mesoendémica, hiperendémica, holoendémica.')  
 
 
 

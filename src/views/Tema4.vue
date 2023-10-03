@@ -73,11 +73,18 @@
     p.mb-5 En función de su modo de transmisión, existen diferentes tipos de transmisión como las que se mencionan a continuación:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10(data-aos="fade-right", alt="Figura 4 Tipos de transmisión. En la figura se representan los tipos de transmisión como: transmisión directa, transmisión indirecta, transmisión horizontal, trasmisión vertical.")
-        .titulo-sexto.color-acento-contenido.mb-5
+      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right", atl="")
+        .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Tipos de transmisión</em>
         figure
-          img(src='@/assets/curso/temas/tema4/img-7.svg', alt='') 
+          img(src='@/assets/curso/temas/tema4/img-7-1.png', alt='Figura 4 Tipos de transmisión. En la figura se representan los tipos de transmisión como: transmisión directa, transmisión indirecta, transmisión horizontal, trasmisión vertical.')  
+    
+    .row.mt-5
+      .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right", alt="")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Tipos de transmisión</em>
+        figure
+          img(src='@/assets/curso/temas/tema4/img-7-2.png', alt='Figura 4 Tipos de transmisión. En la figura se representan los tipos de transmisión como: transmisión directa, transmisión indirecta, transmisión horizontal, trasmisión vertical.')  
 
 
 
