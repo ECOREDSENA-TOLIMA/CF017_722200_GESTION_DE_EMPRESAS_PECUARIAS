@@ -9,11 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-left")
-      .col-md-2.mb-3
-        img(src="@/assets/curso/temas/introduccion/introduccion.svg")
-      .col-md-9
-        p La sanidad animal es uno de los pilares de la producción animal, a continuación, se encuentra la introducción al componente, así como los elementos relevantes que se van a trabajar.
+    p.mb-5 La sanidad animal es uno de los pilares de la producción animal, a continuación, se encuentra la introducción al componente, así como los elementos relevantes que se van a trabajar.
 
     figure
       .video

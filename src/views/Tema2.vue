@@ -24,11 +24,11 @@
         p Por último, se considera con frecuencia que el bienestar animal es un pretexto para imponer barreras arancelarias o incrementar los costos productivos. Pero lejos de constituir un costo o traba, realizar la implementación animal en las unidades productivas constituye una gran ventaja para la competitividad y disminución de costos productivos de los diversos productos generados en el campo pecuario
 
     .row
-      .col-lg-3
+      .col-lg-2
         .tarjeta.tarjeta-1.p-4.mb-4(style="background-color:#1B3F5E")(data-aos="flip-up")
           .row.justify-content-center.align-items-center
             .col-lg-9
-              h2(data-aos="fade-left")(style="color:#ffff") Principios
+              h4(data-aos="fade-left")(style="color:#ffff") Principios
     
     p El bienestar animal se refiere al estado de los animales y cómo afrontan las condiciones de su entorno. Es una ciencia cuyo propósito de investigación es estudiar objetivamente y comprender las necesidades de los animales además es multidisciplinaria en donde se involucran y se interrelacionan aspectos políticos, etológicos, religiosos, productivos, culturales y éticos, entre otros. 
     p.mb-5 Comprende la calidad de vida de un animal y las necesidades que definen las condiciones que deben ser provistas a los mismos, igualmente, debe evaluarse desde las siguientes perspectivas y condiciones, que son tomadas como las bases del bienestar y son ampliamente reconocidas como las cinco libertades:
@@ -86,7 +86,7 @@
         .tarjeta.tarjeta-1.p-4.mb-4(style="background-color:#1B3F5E")(data-aos="flip-up")
           .row.justify-content-center.align-items-center
             .col-lg-9
-              h2(data-aos="fade-left")(style="color:#ffff") Interpretación
+              h4(data-aos="fade-left")(style="color:#ffff") Interpretación
 
     p.mb-5(data-aos="fade-down") Desde el punto de vista práctico, el bienestar animal es un conjunto de procedimientos y acciones que se emplean en determinado sistema de producción, abarcando desde el nacimiento del animal, todas las etapas de su vida hasta la obtención del producto final tal como los huevos, leche, la canal u otros; transporte, comercialización, beneficio, etc. Que brinden confort a los animales con relación, no solo al bienestar físico, sino al comportamental y en armonía con el entorno.
 
@@ -97,7 +97,7 @@
       LineaTiempoC.color-acento-contenido(text-small)
         .row(titulo="Paso 1")
           .col-md-6.mb-4.mb-md-0
-            p Para aplicar el bienestar animal en la producción es de suma importancia tener en cuenta la etología de la especie, con el fin de conocer su comportamiento normal, y como este puede ser manejado en las actividades productivas; la mayoría de los animales domésticos son conocidos por ser animales gregarios y de presa, por lo cual para su manejo se puede hacer uso de principios racionales, basados en las consideraciones de su comportamiento de manada, jerárquico y zonas de fuga
+            p Para aplicar el bienestar animal en la producción es de suma importancia tener en cuenta la etología de la especie, con el fin de conocer su comportamiento normal, y como este puede ser manejado en las actividades productivas; la mayoría de los animales domésticos son conocidos por ser animales gregarios y de presa, por lo cual para su manejo se puede hacer uso de principios racionales, basados en las consideraciones de su comportamiento de manada, jerárquico y zonas de fuga.
 
           .col-md-6
             figure
@@ -160,11 +160,11 @@
               img(src='@/assets/curso/temas/tema2/paso-8.png', alt='Texto que describa la imagen')
 
     .row
-      .col-lg-3
+      .col-lg-2
         .tarjeta.tarjeta-1.p-4.mb-4(style="background-color:#1B3F5E")(data-aos="flip-up")
           .row.justify-content-center.align-items-center
             .col-lg-9
-              h2(data-aos="fade-left")(style="color:#ffff") Legislación
+              h4(data-aos="fade-left")(style="color:#ffff") Legislación
       
     p.mb-5 Durante los últimos años el tema de bienestar animal ha cobrado gran importancia no solo a nivel internacional sino nacional, por lo cual se ha generado un sin número de documentación legal que refuerza este tipo de prácticas a todo nivel, no siendo la excepción los animales de producción. A continuación, se describe la principal normativa a nivel nacional en lo que se refiere al tema de bienestar animal.
 
@@ -204,7 +204,7 @@ export default {
       },
       {
         texto:
-          'LComo resultado de lo anterior, surge a partir del año de 1965 en Europa el concepto de Bienestar Animal, que no debe ser confundido con la posición en donde se plantea la carencia total de trastornos del comportamentales o estrés.',
+          'Como resultado de lo anterior, surge a partir del año de 1965 en Europa el concepto de Bienestar Animal, que no debe ser confundido con la posición en donde se plantea la carencia total de trastornos del comportamentales o estrés.',
         icono: require('@/assets/curso/temas/tema2/caballo.svg'),
       },
       {
