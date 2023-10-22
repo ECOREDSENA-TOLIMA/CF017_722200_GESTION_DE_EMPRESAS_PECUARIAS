@@ -192,7 +192,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.zip',
+        download: 'downloads/CFA_17_722200.zip',
       },
       {
         icono: 'fas fa-download',
@@ -312,28 +312,28 @@ export default {
     {
       tema: '7. Sujeción e inmovilización',
       referencia:
-        'Círculo digital Veterinario. (2021). 2 parte “Taller sobre Sujeción Física y Química de los Bovinos” Impartida MVZ Eduardo Posadas M. [Video] YouTube.',
+        'Círculo digital Veterinario. (2021). 2 parte “Taller sobre Sujeción Física y Química Raza Holstein”  MVZ Eduardo Posadas M. [Video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=SB_4aYPSBrc',
     },
     {
       tema: '7. Sujeción e inmovilización',
       referencia:
-        'Círculo digital Veterinario. (2021). 3 parte “Taller sobre Sujeción Física y Química de los Bovinos” Impartida MVZ Eduardo Posadas M. [Video] YouTube.',
+        'Círculo digital Veterinario. (2021). 3 parte “Taller sobre Sujeción Física y Química en Bovinos” Impartida MVZ Eduardo Posadas M. [Video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ek_c0Ypku6I',
     },
     {
       tema: '7. Sujeción e inmovilización',
       referencia:
-        'Círculo digital Veterinario. (2021). 4 parte “Taller sobre Sujeción Física y Química de los Bovinos” Impartida MVZ Eduardo Posadas M. [Video] YouTube.',
+        'Círculo digital Veterinario. (2021). 4 parte “Taller sobre Sujeción Química y la Importancia” Impartida MVZ Eduardo Posadas M. [Video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=eYYlkRWhspk',
     },
     {
       tema: '7. Sujeción e inmovilización',
       referencia:
-        'Círculo digital Veterinario. (2021). 5 parte “Taller sobre Sujeción Física y Química de los Bovinos” Impartida MVZ Eduardo Posadas M. [Video] YouTube.',
+        'Círculo digital Veterinario. (2021). 5 parte “Taller sobre Sujeción Química y Auscultación, Cesárea en Bovinos” MVZ Eduardo Posadas M. [Video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=5fK98dMCam4',
     },
@@ -352,7 +352,7 @@ export default {
       link: 'http://www.bio-nica.info/biblioteca/Rimbaud2005f.pdf',
     },
     {
-      tema: '8. Primeros auxilios',
+      tema: '10. Primeros auxilios',
       referencia:
         'GCI FAO (2020). Administración de medicamentos veterinarios. [Video] YouTube.',
       tipo: 'Video',
@@ -418,7 +418,7 @@ export default {
     {
       termino: 'Estereotipia',
       significado:
-        'Las estereotipias son movimientos involuntarios, coordinados, no propositivos y rítmicos que se realizan de una forma idéntica en cada repetición (Estereotipias primarias en pediatría, Elsevier, 2010)',
+        'Las estereotipias son movimientos involuntarios, coordinados, no propositivos y rítmicos que se realizan de una forma idéntica en cada repetición (Estereotipias primarias en pediatría, Elsevier, 2010).',
     },
     {
       termino: 'Etiología',
@@ -459,12 +459,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Álvarez Alfaro, C. (2018). Evaluación de mensuración de temperatura comparando cuatro tipos de termómetros en canes en el Distrito de Yanahuara, Arequipa – Perú 2018. [Trabajo para optar al título de Profesional, Universidad Católica de Santa María]',
+        'Álvarez Alfaro, C. (2018). Evaluación de mensuración de temperatura comparando cuatro tipos de termómetros en canes en el Distrito de Yanahuara, Arequipa – Perú 2018. [Trabajo para optar al título de Profesional, Universidad Católica de Santa María].',
       link: 'https://core.ac.uk/download/pdf/198128916.pdf',
     },
     {
       referencia:
-        'Brunori, J.; Juarez, M. (s.f.). Un plan sanitario adecuado. Agritotal .com',
+        'Brunori, J.; Juarez, M. (s.f.). Un plan sanitario adecuado. Agritotal.com',
       link: 'https://www.agritotal.com/nota/un-plan-sanitario-adecuado/',
     },
     {
@@ -473,7 +473,7 @@ export default {
       link: 'http://vip.ucaldas.edu.co/vetzootec/downloads/v2n1a08.pdf',
     },
     {
-      referencia: 'Dabanch P. J. (2003). Zoonosis. Rev Chil Infect',
+      referencia: 'Dabanch P. J. (2003). Zoonosis. Rev Chil Infect.',
       link: 'https://scielo.conicyt.cl/pdf/rci/v20s1/art08.pdf',
     },
     {
@@ -496,13 +496,13 @@ export default {
     },
     {
       referencia:
-        'R. Brühl-Day. (s.f.). Manejo de heridas. Agrovet market animal health, Área de Investigación y Desarrollo Investigación en Salud Animal, St. George’s University-School of Veterinary Medicine,',
+        'R. Brühl-Day. (s.f.). Manejo de heridas. Agrovet market animal health, Área de Investigación y Desarrollo Investigación en Salud Animal, St. George’s University-School of Veterinary Medicine.',
       link:
         'https://www.agrovetmarket.com/investigacion-salud-animal/pdf-download/manejo-de-heridas',
     },
     {
       referencia:
-        'Rimbaud, E.; Pineda Nohemy, L.; Chavarrí, L. (2005). Métodos de sujeción y aplicación de inyectables. Facultad de Ciencias Agrarias Universidad de Ciencias Comerciales. Escuela de Veterinaria',
+        'Rimbaud, E.; Pineda Nohemy, L.; Chavarrí, L. (2005). Métodos de sujeción y aplicación de inyectables. Facultad de Ciencias Agrarias Universidad de Ciencias Comerciales. Escuela de Veterinaria.',
       link: 'http://www.bio-nica.info/biblioteca/Rimbaud2005f.pdf',
     },
     {

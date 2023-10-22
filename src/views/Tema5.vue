@@ -27,7 +27,7 @@
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Para aplicar las medidas cuarentenarias se considerará el área afectada el espacio geográfico en el que se encuentra presente el agente infeccioso (área focal), y la zona de influencia (área perifocal). Está área debe estar bien definida y delimitada con el fin de aplicar las medidas restrictivas y preventivas y evitar la diseminación de la enfermedad.
+            p Para aplicar las medidas cuarentenarias se considerará el área afectada, el espacio geográfico en el que se encuentra presente el agente infeccioso (área focal), y la zona de influencia (área perifocal). Esta área debe estar bien definida y delimitada con el fin de aplicar las medidas restrictivas y preventivas y evitar la diseminación de la enfermedad.
           
           .col-md-6
             figure

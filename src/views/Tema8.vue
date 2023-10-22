@@ -61,7 +61,7 @@
 
     p Los animales tienen la ventaja de poder autorregular su temperatura corporal. Es así que en, condiciones donde la temperatura corporal se encuentra elevada, utilizan los siguientes mecanismos para bajar la temperatura corporal: respirar rápidamente, sudar, jadear, revolcarse en el fango y descansar a la sombra. Por el contrario, si la necesidad es mantener caliente el cuerpo, pueden hacerlo a través de mecanismos como: el pelo y la lana, temblar, caminar, correr, sustraer energía de los alimentos para quemarla y convertirla en calor.
     p La temperatura del animal puede variar con los siguientes factores: exceso de trabajo, sobre alimentación, temperatura del ambiente (en días calurosos, la temperatura corporal del animal puede elevarse), cuando la hembra está en celo, preñada y en el momento del parto.
-    p.mb-5 El instrumento utilizado para la medición de la temperatura es el termómetro veterinario, el cual tiene su unidad de medida en Grados Celsius - oC. En la actualidad existen cuatro tipos de termómetros, siendo el termómetro de mercurio el más utilizado en las granjas.
+    p.mb-5 El instrumento utilizado para la medición de la temperatura es el termómetro veterinario, el cual tiene su unidad de medida en Grados Celsius - °C. En la actualidad existen cuatro tipos de termómetros, siendo el termómetro de mercurio el más utilizado en las granjas.
 
     .col-xl-10.mx-auto.mb-5.desktop
       ImagenInfografica.color-acento-contenido.mb-5
@@ -138,7 +138,7 @@
           p(style="color:#000") El diseño más básico consiste en un lente para enfocar la energía infrarroja (IR) en un detector, que convierte la energía en una señal eléctrica que se puede exhibir en unidades de temperatura después de que se compensa la variación en la temperatura ambiente
 
         .tarjeta.color-secundario.p-3(x="33%" y="48%" numero="2")
-          p(style="color:#000") Como tal, el termómetro infrarrojo es útil para medir la temperatura en circunstancias en las que los termopares u otros sensores de tipo de sonda no se pueden usar o no producen datos precisos por diversas razones. (OMEGA Sensing Incredible Things 2003 - 2017). 
+          p(style="color:#000") Como tal, el termómetro infrarrojo es útil para medir la temperatura en circunstancias en las que los termopares u otros sensores de tipo de sonda no se pueden usar o no producen datos precisos por diversas razones. (OMEGA <em>Sensing Incredible Things</em> 2003 - 2017). 
 
         .tarjeta.color-secundario.p-3(x="47.5%" y="38%" numero="3")
           p(style="color:#000") Esta configuración facilita la medición de temperatura a distancia sin contacto con el objeto a medir.
@@ -166,7 +166,7 @@
         p(data-aos="fade-right") Realizar la sujeción e inmovilización del animal.
 
       div
-        p(data-aos="fade-left") Amarrar una cuerda en la argolla que se encuentra ubicada en el extremo opuesto a la base donde se encuentra el mercurio
+        p(data-aos="fade-left") Amarrar una cuerda en la argolla que se encuentra ubicada en el extremo opuesto a la base donde se encuentra el mercurio.
 
       div
         p(data-aos="fade-right") Limpiar y desinfectar el termómetro. Esto se hace con un alcohol antiséptico o cualquier desinfectante que no sea irritante.
@@ -175,7 +175,7 @@
         p(data-aos="fade-left") Visualice la línea de mercurio (plateada) en el termómetro.
 
       div
-        p(data-aos="fade-right") Agitar fuertemente el termómetro para asegurarse que el nivel de mercurio en el termómetro quede por debajo de los 35 oC. Esta operación se hace de manera cuidadosa ya que se puede romper el termómetro.
+        p(data-aos="fade-right") Agitar fuertemente el termómetro para asegurarse que el nivel de mercurio en el termómetro quede por debajo de los 35 °C. Esta operación se hace de manera cuidadosa, ya que se puede romper el termómetro.
 
       div
         p(data-aos="fade-left") Aplicar un lubricante al termómetro para facilitar la entrada del mismo al recto del animal.
@@ -184,7 +184,7 @@
         p(data-aos="fade-right") Desplazar la cola del animal hacia un lado.
 
       div
-        p(data-aos="fade-left") Introducir suavemente el termómetro por el ano del animal, cuidando que la cuerda quede por fuera del animal
+        p(data-aos="fade-left") Introducir suavemente el termómetro por el ano del animal, cuidando que la cuerda quede por fuera del animal.
       
       div
         p(data-aos="fade-right") Mantener el termómetro en ángulo para que entre en contacto con la pared del recto.
@@ -196,7 +196,7 @@
         p(data-aos="fade-right") Esperar un minuto.
 
       div
-        p(data-aos="fade-left") Retirar el termómetro, de ser necesario limpiarlo y posteriormente realizar la lectura correspondiente. Es necesario aclarar que no debe tocarse el extremo donde se encuentra el mercurio ya que esto puede alterar los resultados y cambiar la lectura.
+        p(data-aos="fade-left") Retirar el termómetro, de ser necesario limpiarlo y posteriormente realizar la lectura correspondiente. Es necesario aclarar que no debe tocarse el extremo donde se encuentra el mercurio, ya que esto puede alterar los resultados y cambiar la lectura.
 
     .row.mb-5(data-aos="fade-down-left")
       .col-md-4
@@ -259,7 +259,7 @@
         p La frecuencia cardiaca es el número de veces que se contrae el corazón durante un minuto (latidos por minuto). Para el correcto funcionamiento del organismo es necesario que el corazón actúe bombeando la sangre hacia todos los órganos, pero además lo debe hacer a una determinada presión (presión arterial) y a una determinada frecuencia. Dada la importancia de este proceso, es normal que el corazón necesite en cada latido un alto consumo de energía.
         p Se toma con el fonendoscopio en su pecho, luego se cuentan el número de pulsaciones en 15 segundo y dicho número se multiplica por 4 para obtener el número de latidos por minuto. 
 
-    p.mb-5 Existen rangos establecidos por especie los cuales nos ayudan a establecer la normalidad o anormalidad durante la revisión
+    p.mb-5 Existen rangos establecidos por especie, los cuales nos ayudan a establecer la normalidad o anormalidad durante la revisión
 
     .row.justify-content-center.mb-5
       .col-md-6.col-lg-3.col-12.mb-3(data-aos="fade-right")
@@ -377,8 +377,8 @@
       .col-md-4.mb-3
         img(src="@/assets/curso/temas/tema8/img-24.png")
       .col-md-8
-        p Una herida es una disrupción de la continuidad normal de un tejido. La procedencia de la herida usualmente determina la extensión del daño, puede ser causada por factores físicos o químicos, causan dolor, la atención de estas suele complicarse ante la presencia de cuerpos extraños, hemorragia y suciedad. Su gravedad depende del sitio de localización, la profundidad y extensión. Se pueden clasificar de diversas formas siendo lo más común clasificarlas en heridas abiertas y cerradas.
-        p Las heridas cerradas se producen por contusiones o injurias aplastantes. En este tipo de heridas la piel está aparentemente intacta, pero las lesiones de los tejidos subyacentes pueden ser severas debido a la energía cinética disipada durante el trauma y el daño ocasionado en la circulación. Mientras las heridas abiertas se clasifican de acuerdo con el mecanismo desencadenante en: avulsiones, laceraciones, incisiones y punciones.
+        p Una herida es una disrupción de la continuidad normal de un tejido. La procedencia de la herida usualmente determina la extensión del daño, puede ser causada por factores físicos o químicos, causan dolor, la atención de estas suele complicarse ante la presencia de cuerpos extraños, hemorragia y suciedad. Su gravedad depende del sitio de localización, la profundidad y extensión. Se pueden clasificar de diversas formas, siendo lo más común clasificarlas en heridas abiertas y cerradas.
+        p Las heridas cerradas se producen por contusiones o injurias aplastantes. En este tipo de heridas, la piel está aparentemente intacta, pero las lesiones de los tejidos subyacentes pueden ser severas debido a la energía cinética disipada durante el trauma y el daño ocasionado en la circulación. Mientras, las heridas abiertas se clasifican de acuerdo con el mecanismo desencadenante en: avulsiones, laceraciones, incisiones y punciones.
 
     .row
       .col-lg-5
@@ -488,15 +488,15 @@
 
       div
         h3(data-aos="fade-left") Clase II o Herida Limpia/Contaminada
-        p(data-aos="fade-left") Esta herida esta desinfectada y no presenta inflamación.  Se produce en cirugías practicadas directamente al tracto respiratorio, gastrointestinal o genitourinario y no presenta derrame significativo de contenido. El riesgo de desarrollar infección es del 5 - 15 %, por microorganismos propios del individuo. Se benefician de profilaxis antibiótica. Algunos tipos de cirugía que producen este tipo de heridas son: histerectomía, colectomía, lobectomía pulmonar, colecistectomía por cálculos o inflamación crónica. 
+        p(data-aos="fade-left") Esta herida está desinfectada y no presenta inflamación.  Se produce en cirugías practicadas directamente al tracto respiratorio, gastrointestinal o genitourinario y no presenta derrame significativo de contenido. El riesgo de desarrollar infección es del 5 - 15 %, por microorganismos propios del individuo. Se benefician de profilaxis antibiótica. Algunos tipos de cirugía que producen este tipo de heridas son: histerectomía, colectomía, lobectomía pulmonar, colecistectomía por cálculos o inflamación crónica. 
 
       div
         h3(data-aos="fade-right") Clase III o Contaminada
-        p(data-aos="fade-right") Esta herida es la que ha durado más de 6 horas abierta accidentalmente, pero que no presenta infección aguda. Hacen parte de esta clasificación las incisiones con inflamación aguda no purulenta. interrupciones importantes de la técnica estéril o derrames groseros del tracto gastrointestinal. En estas el riesgo de que se desarrolle una infección es del 15 %, por microorganismos ya sean propios o externos del procedimiento. Requieren profilaxis antibiótica, de lo contrario se infectarán inevitablemente al cabo de 6 horas. Algunos ejemplos e estos casos se dan en procedimientos como la apendicectomía en apendicitis aguda, masaje cardíaco abierto, colecistectomía con inflamación aguda y derrame de bilis.
+        p(data-aos="fade-right") Esta herida es la que ha durado más de 6 horas abierta accidentalmente, pero que no presenta infección aguda. Hacen parte de esta clasificación las incisiones con inflamación aguda no purulenta. Interrupciones importantes de la técnica estéril o derrames groseros del tracto gastrointestinal. En estas el riesgo de que se desarrolle una infección es del 15 %, por microorganismos, ya sean propios o externos del procedimiento. Requieren profilaxis antibiótica, de lo contrario se infectarán inevitablemente al cabo de 6 horas. Algunos ejemplos en estos casos se dan en procedimientos como la apendicectomía en apendicitis aguda, masaje cardíaco abierto, colecistectomía con inflamación aguda y derrame de bilis.
 
       div
         h3(data-aos="fade-left") Clase IV o Sucia/Infectada
-        p(data-aos="fade-left") Son heridas menores a 6 horas, traumáticas, con compromiso de tejido el cual esta desvitalizado y con inflamación purulenta. Ubicada en área con infección clínica o en víscera perforada, sugiere infección previa a la incisión. El riesgo de desarrollar infección es menor al 30 %, por microorganismos patógenos. Necesita de tratamiento antibiótico que no es profiláctico, debido a su alto riesgo de infección. Algunos procedimientos en los que se causan son por ejemplo la Apendicectomía por rotura de apéndice, apendicectomía con presencia de pus, tratamiento quirúrgico de un absceso, irrigación y debridación de un absceso peri-rectal, la reparación de una úlcera gástrica o intestino perforados.
+        p(data-aos="fade-left") Son heridas menores a 6 horas, traumáticas, con compromiso de tejido, el cual está desvitalizado y con inflamación purulenta. Ubicada en área con infección clínica o en víscera perforada, sugiere infección previa a la incisión. El riesgo de desarrollar infección es menor al 30 %, por microorganismos patógenos. Necesita de tratamiento antibiótico que no es profiláctico, debido a su alto riesgo de infección. Algunos procedimientos en los que se causan son por ejemplo la Apendicectomía por rotura de apéndice, apendicectomía con presencia de pus, tratamiento quirúrgico de un absceso, irrigación y debridación de un absceso peri-rectal, la reparación de una úlcera gástrica o intestino perforados.
 
     .row
       .col-lg-6
@@ -548,7 +548,7 @@
           .col-8
             img(src='@/assets/curso/temas/tema8/img-37.png' alt='AvatarTop')
         h3 Excoriación
-        p Herida que abarca epidermis y dermis, afectando solamente el estrato de la piel. Generalmente cicatrizan de forma completa e íntegra, sin dejar cicatriz. 
+        p Herida que abarca epidermis y dermis, afectando solamente el estrato de la piel. Generalmente, cicatrizan de forma completa e íntegra, sin dejar cicatriz. 
 
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
@@ -592,7 +592,7 @@
     #t_8_4.titulo-segundo.color-primario(data-aos="fade-right")
       h2 8.4 Tratamientos
 
-    p.mb-5 La cicatrización de heridas puede verse alterada por numerosos factores incluyendo infección, tejido necrótico o isquémico, edad, mala nutrición, pobre perfusión vascular, drogas (i.e. corticoides) e hipotermia.
+    p.mb-5 La cicatrización de heridas puede verse alterada por numerosos factores, incluyendo infección, tejido necrótico o isquémico, edad, mala nutrición, pobre perfusión vascular, drogas (i.e. corticoides) e hipotermia.
 
     .row.mb-5
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
@@ -657,12 +657,12 @@
           p.text-small(numero="1" titulo="Bañado") Si la condición del paciente lo permite se puede optar por bañarlo para sacar el máximo de suciedad posible.
           p.text-small(numero="2" titulo="Pelo de los bordes de la herida") El pelo de los bordes de la herida se puede remover por medio de tijeras o una hoja de bisturí número 10 embebidos en vaselina liquidad o K-Y Jelly de modo que el pelo se pega al instrumental y no cae dentro de la herida.
           p.text-small(numero="3" titulo="Antisepsia del área") Una vez finalizada esta etapa se procede a la antisepsia del área por medio de un cepillo blando o gasas embebidas en solución antiséptica como Clorhexidina o Povidona iodada.
-          p.text-small(numero="4" titulo="Lavado para remover el detritus tisular y restos de elementos foráneos") Luego de esto se procede a un lavado para remover el detritus tisular y restos de elementos foráneos que pudieran haberse alojado en la herida misma tales como caolín, arcillas, restos de vegetales, etc. El instrumento ideal para el lavado se arma con una bolsa de solución fisiológica o Ringer lactato y una guía de suero unidas a una llave de tres vías que se acopla a una jeringa de 30 o 60 centimetros.
-          p.text-small(numero="5" titulo="Catéter 18G acoplado a la llave de tres vías") Finalmente se coloca un catéter 18G acoplado a la llave de tres vías. Este sistema permite obtener una presión de 7-9 psi lo que permite la remoción del detritus sin enterrarlos como cuando se utilizaba el sistema water-pik, el cual por medio de una presión elevada hundía en profundidad los detritus en lugar de removerlos.
+          p.text-small(numero="4" titulo="Lavado para remover el detritus tisular y restos de elementos foráneos") Luego de esto se procede a un lavado para remover el detritus tisular y restos de elementos foráneos que pudieran haberse alojado en la herida misma, tales como caolín, arcillas, restos de vegetales, etc. El instrumento ideal para el lavado se arma con una bolsa de solución fisiológica o Ringer lactato y una guía de suero unidas a una llave de tres vías que se acopla a una jeringa de 30 o 60 centímetros.
+          p.text-small(numero="5" titulo="Catéter 18G acoplado a la llave de tres vías") Finalmente se coloca un catéter 18G acoplado a la llave de tres vías. Este sistema permite obtener una presión de 7-9 psi lo que permite la remoción del detritus sin enterrarlos como cuando se utilizaba el sistema <em>water-pik</em>, el cual por medio de una presión elevada hundía en profundidad los detritus en lugar de removerlos.
           p.text-small(numero="6" titulo="Solución al 1-2 % de Povidona iodada") A la solución de lavado puede añadirse una solución al 1-2 % de Povidona iodada cuyo efecto bactericida dura 4-6 horas. La desventaja de esta solución es que se inactiva ante detritus orgánico.
           p.text-small(numero="7" titulo="Restricción uso del detergente de Povidona") No debe usarse el detergente de Povidona que es irritante, daña los tejidos de la herida y puede potenciar la infección de la misma.
           p.text-small(numero="8" titulo="Solución de Clorhexidina al 0.05 %") Otra opción está en el uso de solución de Clorhexidina al 0.05 % con un efecto residual más prolongado y una actividad antimicrobiana inmediata.
-          p.text-small(numero="9" titulo="Restricción uso de peróxido de hidrogeno") No es recomendable el uso de peróxido de hidrogeno, ya que carece de un buen efecto antimicrobiano, excepto para anaerobios. En concentraciones mayores al 3 % puede causar daño a los tejidos originando trombosis de la microvasculatura adyacente a los márgenes de la herida, impidiendo así la revascularización. No se recomienda su uso bajo presión dado que su acción espumante puede agrandar los planos de la herida, facilitando la penetración de detritus en profundidad, permitiendo además la acumulación de aire en el espacio muerto.
+          p.text-small(numero="9" titulo="Restricción uso de peróxido de hidrogeno") No es recomendable el uso de peróxido de hidrógeno, ya que carece de un buen efecto antimicrobiano, excepto para anaerobios. En concentraciones mayores al 3 % puede causar daño a los tejidos originando trombosis de la microvasculatura adyacente a los márgenes de la herida, impidiendo así la revascularización. No se recomienda su uso bajo presión dado que su acción espumante puede agrandar los planos de la herida, facilitando la penetración de detritus en profundidad, permitiendo además la acumulación de aire en el espacio muerto.
 
     .row
       .col-lg-4
@@ -679,7 +679,7 @@
         p(data-aos="fade-down-right") La mayoría de los medicamentos veterinarios tienen establecidos los tiempos de retiro en las etiquetas de los productos. Como se mencionaba anteriormente, el tiempo de retiro no garantiza que no existan residuos de medicamentos en los productos destinados para el consumo humano; sino que los niveles de este medicamento se encuentran por debajo del LMR. 
 
     p(data-aos="fade-down-right") Cabe resaltar que la FAO en su CODEX ALIMENTARIUS CX/MRL 2-2018, establece los límites máximos de residuos y las recomendaciones sobre la gestión de riesgos para residuos de medicamentos veterinarios en los alimentos. De igual manera, en Colombia existe la Resolución 1382 de 2013, por la cual se establecen los límites máximos para residuos de medicamentos veterinarios en los alimentos de origen animal, destinados al consumo humano.
-    p(data-aos="fade-down-left") Los medicamentos se deben utilizar de forma responsable ya que existen algunos productores que tienen la creencia que siempre se debe aplicar mucho más de la dosis recomendada en la etiqueta y por consiguiente el tiempo de retiro será diferente ya que este deberá ser ajustado a la cantidad de medicamento que se administró al animal.
+    p(data-aos="fade-down-left") Los medicamentos se deben utilizar de forma responsable, ya que existen algunos productores que tienen la creencia que siempre se debe aplicar mucho más de la dosis recomendada en la etiqueta y por consiguiente el tiempo de retiro será diferente porque este deberá ser ajustado a la cantidad de medicamento que se administró al animal.
     p.mb-5(data-aos="fade-down-right") Partiendo del hecho de que los productores pecuarios están en la obligación de garantizar la inocuidad de los alimentos que están produciendo y que, en las explotaciones pecuarias, existen algunas actividades como la aplicación de antibióticos, hormonas, estimulantes del crecimiento, antiparasitarios, antibióticos, insecticidas herbicidas etc. El tiempo de retiro es una práctica muchas veces necesaria que requiere que el productor tome medidas para obtener un producto inocuo para la salud humana y de otras especies que, si no se tiene en cuenta, pueden causar efectos sobre la salud humana y de las especies en producción, generando alergias, resistencias antimicrobianas, e incluso reacciones crónicas por la exposición a largo plazo de niveles bajos de medicamentos.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down-left")
@@ -702,12 +702,12 @@ export default {
   data: () => ({
     datosLineaTiempoB: [
       {
-        texto: 'Inapetencia o Anorexia',
+        texto: 'Inapetencia o Anorexia.',
         icono: require('@/assets/curso/temas/tema8/img-2-1.svg'),
       },
       {
         texto:
-          'Fiebre o Hipotermia, es decir, temperatura fuera de los rangos normales',
+          'Fiebre o Hipotermia, es decir, temperatura fuera de los rangos normales.',
         icono: require('@/assets/curso/temas/tema8/img-3.svg'),
       },
       {
@@ -722,12 +722,12 @@ export default {
       },
       {
         texto:
-          'Varia los patrones normales de movimiento e interacción, o sea, no quiere moverse o en caso contrario se muestra muy inquieto.',
+          'Varía los patrones normales de movimiento e interacción, o sea, no quiere moverse o en caso contrario se muestra muy inquieto.',
         icono: require('@/assets/curso/temas/tema8/img-6.svg'),
       },
       {
         texto:
-          'La marcha irregular se puede deber a un dolor de los pezones o de las patas. Si nos aproximamos a un animal tumbado éste no se pone de pie.',
+          'La marcha irregular se puede deber a un dolor de los pezones o de las patas. Si nos aproximamos a un animal tumbado, este no se pone de pie.',
         icono: require('@/assets/curso/temas/tema8/img-7.svg'),
       },
       {

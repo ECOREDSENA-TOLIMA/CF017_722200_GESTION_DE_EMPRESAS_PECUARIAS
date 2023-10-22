@@ -69,7 +69,7 @@
 
         .row(titulo="Paso 3")
           .col-md-6.mb-4.mb-md-0
-            p Método sencillo sujeción e inmovilización que evita que se lastimen las ubres o el pene de los bovinos en el manejo.
+            p Método sencillo, sujeción e inmovilización que evita que se lastimen las ubres o el pene de los bovinos en el manejo.
 
           .col-md-6
             figure
@@ -260,11 +260,11 @@
 
       div
         h3(data-aos="fade-left") Nariguera
-        p(data-aos="fade-left") se pone en el tabique nasal del animal, entre las fosas, alrededor de una pulgada de la punta de la nariz, también sirven para controlar animales de gran tamaño o con algún tipo de comportamiento agresivo. Es lo más recomendado, si no se tienen apretaderos.
+        p(data-aos="fade-left") Se pone en el tabique nasal del animal, entre las fosas, alrededor de una pulgada de la punta de la nariz, también sirven para controlar animales de gran tamaño o con algún tipo de comportamiento agresivo. Es lo más recomendado, si no se tienen apretaderos.
 
       div
         h3(data-aos="fade-right") Cabezales o bozales móviles
-        p(data-aos="fade-right") Se ajustan a medida que se jalan por lo que hay que tener mucho cuidado para que no se bajen mucho hacia la parte de la nariz y le puedan bloquear la entrada de aire del animal.
+        p(data-aos="fade-right") Se ajustan a medida que se jalan, por lo que hay que tener mucho cuidado para que no se bajen mucho hacia la parte de la nariz y le puedan bloquear la entrada de aire del animal.
 
       div
         p(data-aos="fade-left") Lazos para manejo animal.
@@ -312,7 +312,7 @@
 
     SlyderB.mb-5(:datos="datosSlyder")(data-aos="flip-up")
 
-    p(data-aos="fade-down") El caballo, luego de dominarle la cabeza, no ofrece mayores dificultades, en el bovino no es así, por lo que hay que tener cuidado con las “cornadas”. En los bovinos muchas veces es conveniente dejar colocado un anillo nasal. En cuanto el caballo se controla la cabeza no resulta dificultoso su manejo, sin embargo, con el bovino debe cuidarse de las estocadas con la cabeza o cornadas, por lo cual se recomienda mantener el control durante todo el tiempo. Por otra parte, la revisión periódica de los miembros a nivel de cascos o pezuñas, así como el cuidado, limpieza y la revisión de los tratamientos de la integridad sobre todo de la muralla, con el fin de mejorar las condiciones del animal y facilitar su labor.
+    p(data-aos="fade-down") El caballo, luego de dominarle la cabeza, no ofrece mayores dificultades, en el bovino no es así, por lo que hay que tener cuidado con las “cornadas”. En los bovinos muchas veces es conveniente dejar colocado un anillo nasal. En cuanto el caballo se controla la cabeza no resulta dificultoso su manejo, sin embargo, con el bovino debe cuidarse de las estocadas con la cabeza o cornadas, por lo cual se recomienda mantener el control durante todo el tiempo. Por otra parte, la revisión periódica de los miembros a nivel de cascos o pezuñas, así como el cuidado, limpieza y la revisión de los tratamientos de la integridad, sobre todo de la muralla, con el fin de mejorar las condiciones del animal y facilitar su labor.
 
 
 
@@ -355,7 +355,7 @@ export default {
       {
         titulo: 'Jáquima',
         texto:
-          'Es la cabezada de cordel, que suple por el cabestro, para atar los caballos y llevarlos. el mejor material es la suela, hecha de forma que no comprima el hocico del animal, en caso de echarse la jáquima hacia atrás.',
+          'Es la cabezada de cordel, que suple por el cabestro, para atar los caballos y llevarlos. El mejor material es la suela, hecha de forma que no comprima el hocico del animal, en caso de echarse la jáquima hacia atrás.',
         imagen: require('@/assets/curso/temas/tema7/img-19.png'),
       },
       {
@@ -367,7 +367,7 @@ export default {
       {
         titulo: 'Freno',
         texto:
-          'También conocido como bocado comunica los deseos del jinete al caballo ejerciendo presión en la boca, aunque pude ser utilizado como un arma con consecuencias muy negativas si se desea un caballo atento al freno, pero de ninguna manera temeroso.',
+          'También conocido como bocado, comunica los deseos del jinete al caballo ejerciendo presión en la boca, aunque pude ser utilizado como un arma con consecuencias muy negativas si se desea un caballo atento al freno, pero de ninguna manera temeroso.',
         imagen: require('@/assets/curso/temas/tema7/img-21.png'),
       },
       {
@@ -379,7 +379,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Los trabones en los miembros posteriores son un instrumento bastante conocido en el manejo de equinos el cual facilita el mismo en el control e inmovilización con diferentes fines. Se pone en las extremidades, abajo. Cuando pierde la estabilidad, se tira de la cadena y se le juntan las 4 extremidades y se cae, después de inducirles a la anestesia.',
+          'Los trabones en los miembros posteriores son un instrumento bastante conocido en el manejo de equinos, el cual facilita el mismo en el control e inmovilización con diferentes fines. Se pone en las extremidades, abajo. Cuando pierde la estabilidad, se tira de la cadena y se le juntan las 4 extremidades y se cae, después de inducirles a la anestesia.',
         imagen: require('@/assets/curso/temas/tema7/img-23.png'),
       },
     ],

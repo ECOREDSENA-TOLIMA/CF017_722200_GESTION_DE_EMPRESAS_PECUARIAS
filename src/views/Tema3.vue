@@ -18,7 +18,7 @@
         .tarjeta.color-primario(style="height:100%")
           .p-4
             h2.text-center Según su duración
-            p Se pueden clasificar como agudas o crónicas. Las agudas se manifiestan rápidamente y son de corta duración. Por otro lado, las enfermedades crónicas se desarrollan de manera lenta, son de larga duración pueden durar toda la vida del animal.
+            p Se pueden clasificar como agudas o crónicas. Las agudas se manifiestan rápidamente y son de corta duración. Por otro lado, las enfermedades crónicas se desarrollan de manera lenta, son de larga duración, pueden durar toda la vida del animal.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta.color-acento-botones

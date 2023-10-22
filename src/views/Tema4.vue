@@ -16,7 +16,7 @@
 
     .row.mb-4(data-aos="fade-left")
       .col-md-10
-        p El Ministerio de Salud de Colombia, menciona que aproximadamente el 43,6 % de las zoonosis presenta distribución mundial y que de estas el 45 % son de origen viral, 28 % bacteriano, 20 % parasitario y el 7 % por agentes micóticos, presentándose en trabajadores agropecuarios y personas que tienen contacto con animales o sus productos, aunque condiciones actuales han hecho que la epidemiologia de las enfermedades cambie, haciendo vulnerables a personas del común que tienen animales de compañía y de granja.
+        p El Ministerio de Salud de Colombia, menciona que aproximadamente el 43,6 % de las zoonosis presenta distribución mundial y que de estas el 45 % son de origen viral, 28 % bacteriano, 20 % parasitario y el 7 % por agentes micóticos, presentándose en trabajadores agropecuarios y personas que tienen contacto con animales o sus productos, aunque condiciones actuales han hecho que la epidemiología de las enfermedades cambie, haciendo vulnerables a personas del común que tienen animales de compañía y de granja.
       .col-md-2
         img(src="@/assets/curso/temas/tema4/img-2.svg")
 
@@ -42,7 +42,7 @@
             img(src='@/assets/curso/temas/tema4/img-4.png', alt='Texto que describa la imagen')
         .col-md-6.mb-4.mb-md-0
           p.text-small Virus
-          p.text-small Baceterias 
+          p.text-small Bacterias 
           p.text-small Hongos 
           p.text-small Protozoos
           p.text-small Helmintos 

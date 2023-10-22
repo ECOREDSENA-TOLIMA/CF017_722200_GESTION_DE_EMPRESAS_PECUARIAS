@@ -11,7 +11,7 @@
       .col-md-3.mb-3
         img(src="@/assets/curso/temas/tema2/img-1.svg")
       .col-md-9
-        p Con el progreso en cuanto el conocimiento sobre el comportamiento animal y su directa correlación en el desarrollo de los procesos productivos, se han realizado investigaciones y experimentos en donde se ha demostrado con claridad que así se lleven las técnicas más apropiadas de manejo y alimentación, los resultados productivos pueden no ser los mejores, sino se aplica algún grado de comodidad con el que debe gozar el animal en todo su periodo de crianza, en cuanto al sistema productivo bajo que es manejado. También se ha demostrado que existe una incidencia directa en el nivel de confort y la intensidad con que se lleva el sistema productivo, indicando que mientras hay mayor comodidad el animal expresa más su potencial de producción.
+        p Con el progreso en cuanto el conocimiento sobre el comportamiento animal y su directa correlación en el desarrollo de los procesos productivos, se han realizado investigaciones y experimentos en donde se ha demostrado con claridad que así se lleven las técnicas más apropiadas de manejo y alimentación, los resultados productivos pueden no ser los mejores, si no se aplica algún grado de comodidad con el que debe gozar el animal en todo su periodo de crianza, en cuanto al sistema productivo bajo que es manejado. También se ha demostrado que existe una incidencia directa en el nivel de confort y la intensidad con que se lleva el sistema productivo, indicando que mientras hay mayor comodidad, el animal expresa más su potencial de producción.
 
     LineaTiempoB.color-primario.mb-5(:datos="datosLineaTiempoB")
 
@@ -21,7 +21,7 @@
       .col-md-2.mb-3
         img(src="@/assets/curso/temas/tema2/img-2.svg")
       .col-md-10
-        p Por último, se considera con frecuencia que el bienestar animal es un pretexto para imponer barreras arancelarias o incrementar los costos productivos. Pero lejos de constituir un costo o traba, realizar la implementación animal en las unidades productivas constituye una gran ventaja para la competitividad y disminución de costos productivos de los diversos productos generados en el campo pecuario
+        p Por último, se considera con frecuencia que el bienestar animal es un pretexto para imponer barreras arancelarias o incrementar los costos productivos. Pero lejos de constituir un costo o traba, realizar la implementación animal en las unidades productivas constituye una gran ventaja para la competitividad y disminución de costos productivos de los diversos productos generados en el campo pecuario.
 
     .row
       .col-lg-2
@@ -34,14 +34,14 @@
     p.mb-5 Comprende la calidad de vida de un animal y las necesidades que definen las condiciones que deben ser provistas a los mismos, igualmente, debe evaluarse desde las siguientes perspectivas y condiciones, que son tomadas como las bases del bienestar y son ampliamente reconocidas como las cinco libertades:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-10.col-md-10.col-lg-10.desktop(data-aos="fade-right", alt="")
+      .col-10.col-md-10.col-lg-11.desktop(data-aos="fade-right", alt="")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Los 5 principios para el bienestar animal </em>
         figure
           img(src='@/assets/curso/temas/tema2/img-9-1.png', alt='Figura 2 Los 5 principios para el bienestar animal En la figura se representan los cinco principios para el bienestar animal, como: Libre de hambre y sed, libre de incomodidades físicas o térmicas, libre de dolor, lesiones o enfermedad, libre de miedo o angustia, libre de expresar su comportamiento.')  
     
     .row.mt-5
-      .col-10.col-md-10.col-lg-10.movil.mb-5(data-aos="fade-right", alt="")
+      .col-10.col-md-10.col-lg-11.movil.mb-5(data-aos="fade-right", alt="")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Los 5 principios para el bienestar animal</em>
         figure
@@ -87,7 +87,7 @@
 
         .row(titulo="Paso 4")
           .col-md-6.mb-4.mb-md-0
-            p En cuanto a la castración, corte de pico, corte de colas, descolmillado, topizada o descorne entre otros procedimientos necesarios para el manejo de los animales en la producción, se recomienda que sean realizados a edad temprana, para favorecer la fácil recuperación y evitando que interfiera en la curva productiva de los mismos, además deben ser realizados por el médico veterinario, con los equipos, materiales, antisepsia y desinfección idóneos y necesario para dichos procedimientos.
+            p En cuanto a la castración, corte de pico, corte de colas, descolmillado, topizada o descorne, entre otros procedimientos necesarios para el manejo de los animales en la producción, se recomienda que sean realizados a edad temprana, para favorecer la fácil recuperación y evitando que interfiera en la curva productiva de los mismos, además deben ser realizados por el médico veterinario, con los equipos, materiales, antisepsia y desinfección idóneos y necesario para dichos procedimientos.
 
           .col-md-6
             figure
@@ -95,7 +95,7 @@
 
         .row(titulo="Paso 5")
           .col-md-6.mb-4.mb-md-0
-            p Cualquier manejo practico, de alguna situación o circunstancia que obligue al destete, debe llevarse a cabo con calma, delicadeza y tranquilidad para reducir el estrés. 
+            p Cualquier manejo práctico, de alguna situación o circunstancia que obligue al destete, debe llevarse a cabo con calma, delicadeza y tranquilidad para reducir el estrés. 
 
           .col-md-6
             figure
@@ -103,7 +103,7 @@
 
         .row(titulo="Paso 6")
           .col-md-6.mb-4.mb-md-0
-            p En relación a las rampas de carga y descarga, deben tener una inclinación o pendiente que no supere el 20%, además de una iluminación apropiada, sin sectores oscuros o con sombras que asusten a los animales e impidan el transito rápido y tranquilo por la misma.
+            p En relación a las rampas de carga y descarga, deben tener una inclinación o pendiente que no supere el 20%, además de una iluminación apropiada, sin sectores oscuros o con sombras que asusten a los animales e impidan el tránsito rápido y tranquilo por la misma.
 
           .col-md-6
             figure
@@ -111,7 +111,7 @@
 
         .row(titulo="Paso 7")
           .col-md-6.mb-4.mb-md-0
-            p Las instalaciones las cuales deben contar con infraestructura, materiales y equipos que faciliten el manejo como los corrales de encierros, las mangas, bretes, apretaderos, toril, instrumentos para sujeción apropiado para el tipo, cantidad y temperamento de animales a manejar, con disponibilidad de agua, suficiente iluminación, zona de sombreo y descanso para los animales, cuidando de que no hayan elementos que puedan dañar a los animales como salientes, clavos, puntillas, tornillos, maderas, astillas, alambres u otros.
+            p Las instalaciones, las cuales deben contar con infraestructura, materiales y equipos que faciliten el manejo como los corrales de encierros, las mangas, bretes, apretaderos, toril, instrumentos para sujeción apropiado para el tipo, cantidad y temperamento de animales a manejar, con disponibilidad de agua, suficiente iluminación, zona de sombreo y descanso para los animales, cuidando de que no haya elementos que puedan dañar a los animales como salientes, clavos, puntillas, tornillos, maderas, astillas, alambres u otros.
 
           .col-md-6
             figure
@@ -119,7 +119,7 @@
 
         .row(titulo="Paso 8")
           .col-md-6.mb-4.mb-md-0
-            p Finalmente, la alimentación y nutrición de los animales debe estar ajustada a su etapa de crecimiento, productiva, época del año y condición reproductiva, con el fin de satisfacer sus requerimientos en cuanto a desarrollo, mantenimiento, sanidad y productividad, asegurando la calidad físico química y microbiológica de la misma.
+            p Finalmente, la alimentación y nutrición de los animales debe estar ajustada a su etapa de crecimiento, productiva, época del año y condición reproductiva, con el fin de satisfacer sus requerimientos en cuanto a desarrollo, mantenimiento, sanidad y productividad, asegurando la calidad físicoquímica y microbiológica de la misma.
 
           .col-md-6
             figure
@@ -165,12 +165,12 @@ export default {
     datosLineaTiempoB: [
       {
         texto:
-          '“Mahatma Gandhi”, quien decía que “la grandeza de una nación y su progreso moral, pueden juzgarse a través del trato que reciben sus animales. (1948)',
+          '“Mahatma Gandhi”, quien decía que "la grandeza de una nación y su progreso moral, pueden juzgarse a través del trato que reciben sus animales". (1948)',
         icono: require('@/assets/curso/temas/tema2/raton.svg'),
       },
       {
         texto:
-          'Como resultado de lo anterior, surge a partir del año de 1965 en Europa el concepto de Bienestar Animal, que no debe ser confundido con la posición en donde se plantea la carencia total de trastornos del comportamentales o estrés.',
+          'Como resultado de lo anterior, surge a partir del año de 1965 en Europa el concepto de Bienestar Animal, que no debe ser confundido con la posición en donde se plantea la carencia total de trastornos comportamentales o estrés.',
         icono: require('@/assets/curso/temas/tema2/caballo.svg'),
       },
       {
@@ -180,7 +180,7 @@ export default {
       },
       {
         texto:
-          'Recientemente Giménez Zapiola (2007) define al bienestar animal como “aquel estado en que los animales se vean libres del maltrato innecesario”.',
+          'Recientemente, Giménez Zapiola (2007) define al bienestar animal como “aquel estado en que los animales se vean libres del maltrato innecesario”.',
         icono: require('@/assets/curso/temas/tema2/gallina.svg'),
       },
     ],
