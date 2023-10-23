@@ -30,7 +30,7 @@
             .col-lg-9
               h4(data-aos="fade-left")(style="color:#ffff") Principios
     
-    p El bienestar animal se refiere al estado de los animales y cómo afrontan las condiciones de su entorno. Es una ciencia cuyo propósito de investigación es estudiar objetivamente y comprender las necesidades de los animales además es multidisciplinaria en donde se involucran y se interrelacionan aspectos políticos, etológicos, religiosos, productivos, culturales y éticos, entre otros. 
+    p El bienestar animal se refiere al estado de los animales y cómo afrontan las condiciones de su entorno. Es una ciencia cuyo propósito de investigación es estudiar objetivamente y comprender las necesidades de los animales, además es multidisciplinaria en donde se involucran y se interrelacionan aspectos políticos, etológicos, religiosos, productivos, culturales y éticos, entre otros. 
     p.mb-5 Comprende la calidad de vida de un animal y las necesidades que definen las condiciones que deben ser provistas a los mismos, igualmente, debe evaluarse desde las siguientes perspectivas y condiciones, que son tomadas como las bases del bienestar y son ampliamente reconocidas como las cinco libertades:
 
     .row.justify-content-center.align-items-center.mb-5

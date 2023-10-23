@@ -490,7 +490,7 @@ export default {
     },
     {
       referencia:
-        'Ponce del Valle, M.; Vicari, C.; Faravelli, M.; Glauber, C.; Winter, N. (2015). Manual de bienestar animal, un enfoque práctico para el buen manejo de especies domésticas durante su tenencia, producción, Concentración, Transporte Y Faena Versión 1.',
+        'Ponce del Valle, M.; Vicari, C.; Faravelli, M.; Glauber, C.; Winter, N. (2015). Manual de bienestar animal, un enfoque práctico para el buen manejo de especies domésticas durante su tenencia, producción, Concentración, Transporte Y Faena Versión. 1.',
       link:
         'https://www.senasa.gob.ar/sites/default/files/ARBOL_SENASA/ANIMAL/BOVINOS_BUBALINOS/INDUSTRIA/ESTABL_IND/BIENESTAR/manual_de_bienestar_animal_especies_domesticas_-_senasa_-_version_1-2015.pdf',
     },
