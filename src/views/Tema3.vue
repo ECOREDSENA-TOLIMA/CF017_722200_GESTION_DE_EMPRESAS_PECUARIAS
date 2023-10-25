@@ -38,10 +38,9 @@
             h2.text-center Según el tipo de alteración
             p Las enfermedades también se pueden clasificar según el tipo de alteración como, por ejemplo: enfermedades carenciales, traumáticas, genéticas, congénitas, metabólicas, degenerativas, mentales, parasitarias, autoinmunes, intoxicaciones, alérgicas, entre otras.
 
-    Separador 
+    Separador
 
-    .titulo-segundo.color-primario(data-aos="fade-right")
-      h2 Manifestación
+    h2 Manifestación
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-left")
       .col-md-4.mb-3
@@ -50,9 +49,8 @@
         p Un animal saludable bebe agua y se alimenta normalmente, se desplaza sin dificultad, suele permanecer cerca de su manada, erguido, alerta, con mirada vivaz, mucosas y conjuntivas húmedas y rosadas, con buenos parámetros productivos.  Dejando de un lado a las enfermedades subclínicas (aquellas que no presentan manifestaciones visibles). Un animal enfermo mostrará alguna o varias alteraciones en lo que tiene que ver con su comportamiento y aspecto físico. Un animal enfermo puede presentar movimientos lentos, movimientos torpes, cabeza agachada, lomo arqueado, ojos hundidos, se separa de su manada, el pelo puede estar hirsuto.
 
     Separador 
-
-    .titulo-segundo.color-primario(data-aos="fade-right")
-      h2 Enfermedades endémicas
+    
+    h2 Enfermedades endémicas
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down-left")
       .col-md-3.mb-3

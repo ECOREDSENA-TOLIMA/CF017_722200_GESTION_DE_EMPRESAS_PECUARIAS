@@ -59,18 +59,6 @@ export default {
         numero: '3',
         titulo: 'Enfermedad',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '3.1',
-            titulo: 'Manifestación',
-            hash: 't_3_1',
-          },
-          {
-            numero: '3.2',
-            titulo: 'Enfermedades endémicas',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -146,7 +134,7 @@ export default {
           {
             numero: '8.2',
             titulo: 'Signos vitales en especie pecuaria',
-            hash: 't_8_1',
+            hash: 't_8_2',
           },
           {
             numero: '8.3',
@@ -352,7 +340,7 @@ export default {
       link: 'http://www.bio-nica.info/biblioteca/Rimbaud2005f.pdf',
     },
     {
-      tema: '10. Primeros auxilios',
+      tema: '8. Primeros auxilios',
       referencia:
         'GCI FAO (2020). Administración de medicamentos veterinarios. [Video] YouTube.',
       tipo: 'Video',
@@ -566,12 +554,12 @@ export default {
         {
           nombre: 'Humberto Arias Díaz',
           cargo: 'Diseñador Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Maria Inés Machado López',
           cargo: 'Asesor Metodológico',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -581,32 +569,32 @@ export default {
         {
           nombre: 'Luis Fernando Botero Mendoza',
           cargo: 'Diseñador web',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Storyborad e Ilustración',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Nelsón Iván Vera Briceño',
           cargo: 'Producción Audiovisual',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima- Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oleg Livtin',
           cargo: 'Animador',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Actividad Didáctica',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -616,12 +604,12 @@ export default {
         {
           nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
