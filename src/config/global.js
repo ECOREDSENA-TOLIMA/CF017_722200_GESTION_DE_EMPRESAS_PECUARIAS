@@ -123,7 +123,7 @@ export default {
           {
             numero: '7.2',
             titulo: 'Métodos',
-            hash: 't_7_1',
+            hash: 't_7_2',
           },
           {
             numero: '7.3',

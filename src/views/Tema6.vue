@@ -54,7 +54,7 @@
       .col-md-5.mb-3
         img(src="@/assets/curso/temas/tema6/img-4.png")
       .col-md-7
-        p Los animales deben ser conducidos por un trabajador que ira a pie, de ser posible, siempre y cuando no represente un riesgo para este, sin perros ni caballos, respetando la velocidad de los animales en la marcha. Para este tipo de situaciones se recomienda utilizar los instrumentos inductores apropiados.
+        p Los animales deben ser conducidos por un trabajador que irá a pie, de ser posible, siempre y cuando no represente un riesgo para este, sin perros ni caballos, respetando la velocidad de los animales en la marcha. Para este tipo de situaciones se recomienda utilizar los instrumentos inductores apropiados.
         p El uso de perros pastores o para arreo se utiliza solo en unidades productivas que adiestran estos animales, los cuales no muerden y emiten un número mínimo de ladridos sin intimidar a la manada, usualmente se utilizan en producciones ovinas caprinas, sin embargo, está totalmente prohibido el uso de estos recursos en recintos para feria, remates o subastas.
 
     p.mb-5 En la labor de los operarios a caballo se recomienda sea acompañando naturalmente el movimiento de los animales, por lo que hay que ser cuidadoso. El jinete debe conducir al equino sin usar fuerza excesiva ni empujar, forzar el avance o presionar los animales contra las paredes o estructuras de las instalaciones.
