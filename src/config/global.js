@@ -65,13 +65,6 @@ export default {
         numero: '4',
         titulo: 'Zoonosis',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '4.1',
-            titulo: 'Tipos de transmisión',
-            hash: 't_4_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
