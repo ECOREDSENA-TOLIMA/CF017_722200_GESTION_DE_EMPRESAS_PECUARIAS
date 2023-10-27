@@ -445,7 +445,7 @@ export default {
     },
     {
       referencia:
-        'Brunori, J.; Juarez, M. (s.f.). Un plan sanitario adecuado. Agritotal.com',
+        'Brunori, J.; Juarez, M. (s.f.). Un plan sanitario adecuado. Agritotal.com.',
       link: 'https://www.agritotal.com/nota/un-plan-sanitario-adecuado/',
     },
     {
